@@ -1,5 +1,5 @@
 # GNG-5300-Group-Backend
-1. install requirements.txt
+install requirements.txt
 
 
 python3 -m venv venv
